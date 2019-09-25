@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "578df189-eec7-43da-83ee-7f496c47f9ae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "aircraft_explode_1": {
+      "ver": "1.0.3",
+      "uuid": "59e4475b-ef6e-4869-9123-4c1b644fc90f",
+      "rawTextureUuid": "578df189-eec7-43da-83ee-7f496c47f9ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 15,
+      "trimY": 3,
+      "width": 98,
+      "height": 123,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "23f1d249-2376-4e57-85fd-6c217ac212b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "aircraft_large_explode_4": {
+      "ver": "1.0.3",
+      "uuid": "3cde2480-bcf1-4656-867b-0fddb7c31a10",
+      "rawTextureUuid": "23f1d249-2376-4e57-85fd-6c217ac212b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -1.5,
+      "trimX": 37,
+      "trimY": 14,
+      "width": 166,
+      "height": 254,
+      "rawWidth": 245,
+      "rawHeight": 279,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

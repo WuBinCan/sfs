@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f756c9c5-8e12-4b30-9c46-d39f4bae81a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "aircraft_2": {
+      "ver": "1.0.3",
+      "uuid": "42e25fba-8c07-4982-8d38-2d17493a5cff",
+      "rawTextureUuid": "f756c9c5-8e12-4b30-9c46-d39f4bae81a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 15,
+      "trimY": 3,
+      "width": 98,
+      "height": 123,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
